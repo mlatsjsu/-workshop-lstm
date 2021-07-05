@@ -1,1 +1,1 @@
-# -workshop-lstm
+# workshop-lstm
